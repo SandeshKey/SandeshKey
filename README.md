@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio Website](https://sandeshsubedi7.com.np/)**
 
-- 📩 To connect with me, you can mail me at **sandeshyes77@gmail.com** 
+- 📩 To connect with me, you can mail me at **sandeshsubedi345@gmail.com** 
 <br>
 <br>
 <br>
