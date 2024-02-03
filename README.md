@@ -1,30 +1,17 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<br>
-<br>
-<br>
 
-
-
-<h1 align="center">Howdy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Sandesh Subedi</h1>
-<h3 align="center">I love to Research, Design and Develop</h3>
+<h1 align="center">Welcome</h1>
+<h3 align="center">My name is Sandesh. I love to Research, Design and Develop</h3>
 <br>
 <br>
 
 ## 🙋‍♂️ About Me
 
-- 🏠 I’m from Nepal🇳🇵. A beautiful country, located in Southern Asia.
+Born where mountains kiss the sky,
+raised amidst the tranquility of Pokhara's lakes-Nepal, the essense of my story. Passionate about bridging the gap between humans and technology, I'm an HCI enthusiast orchestrating pixels into poetry.
 
-- 📚 I'm a Information Technology student. 
+👨‍💻 All of my projects are available at **[My Portfolio Website](https://sandeshsubedi7.com.np/)**
 
-- 👦 I am an ordinary person. I like mountains 🏔, lakes 🌊 and sunsets 🌇
-
-- ⚽️ I love football. When it comes to being a football fan, I would describe myself as a priviliged devoted follower. ❤️‍🔥
-
-- 🔮 I always seek to aquire new knowledge everyday.
-
-- 👨‍💻 All of my projects are available at **[My Portfolio Website](https://sandeshsubedi7.com.np/)**
-
-- 📩 To connect with me, you can mail me at **sandeshsubedi345@gmail.com** 
+📩 My inbox is always open for those committed to transforming visions **sandeshsubedi345@gmail.com** 
 <br>
 <br>
 <br>
@@ -69,7 +56,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SandeshKey/github-readme-activity-graph"><img alt="Sandesh Subedi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SandeshKey&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SandeshKey/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SandeshKey&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
