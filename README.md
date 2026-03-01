@@ -6,6 +6,8 @@
 
 ## 🙋‍♂️ About Me
 
+UX / Product Designer| Dashboards and Workflow Systems | Accessibility (WCAG) | MS @ Wright State
+
 Born where mountains kiss the sky,
 raised amidst the tranquility of Pokhara's lakes-Nepal, the essense of my story. Passionate about bridging the gap between humans and technology, I'm an HCI enthusiast orchestrating pixels into poetry.
 
