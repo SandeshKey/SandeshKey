@@ -1,88 +1,155 @@
-
-<h1 align="center">Welcome</h1>
-<h3 align="center">My name is Sandesh. I love to Research, Design and Develop</h3>
-<br>
-<br>
-
-## 🙋‍♂️ About Me
-
-UX / Product Designer| Dashboards and Workflow Systems | Accessibility (WCAG) | MS @ Wright State
-
-Born where mountains kiss the sky,
-raised amidst the tranquility of Pokhara's lakes-Nepal, the essense of my story. Passionate about bridging the gap between humans and technology, I'm an HCI enthusiast orchestrating pixels into poetry.
-
-👨‍💻 All of my projects are available at **[My Portfolio Website](https://sandeshsubedi7.com.np/)**
-
-📩 My inbox is always open for those committed to transforming visions **sandeshsubedi345@gmail.com** 
-<br>
-<br>
-<br>
-<br>
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://www.html.com" target="_blank"> <img src="https://img.icons8.com/color/344/html-5--v1.png" width="50" height="50"/> </a>
-    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://img.icons8.com/color/344/css3.png" width="50" height="50"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="50" height="50"/> </a> 
-    <a href="https://jquery.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/344/jquery.png" width="50" height="50"/> </a> 
-    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/344/dart.png" width="50" height="50"/> </a> 
-    <a href="https://www.flutter.dev" target="_blank"> <img src="https://img.icons8.com/color/344/flutter.png" width="50" height="50"/> </a> 
-    <a style="padding-right:8px;" href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-figma-a-better-way-to-design-and-gather-feedback-all-in-one-place-logo-color-tal-revivo.png" width="50" height="50"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="50" height="50"/> </a>
-    <a href="https://www.coursera.org/professional-certificates/google-ux-design?utm_source=gg&utm_medium=sem&utm_campaign=15-GoogleUXDesign-ROW&utm_content=B2C&campaignid=12566638067&adgroupid=119528846877&device=c&keyword=designer%20ux%20ui&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=507197228307&hide_mobile_promo&gclid=Cj0KCQjwguGYBhDRARIsAHgRm4-PcFOBmPx3sRffXhe9-zUkRPomeOLN2qTnSyMeJ-FncJq57kHkX70aArcMEALw_wcB" target="_blank"> <img src="https://img.icons8.com/external-filled-outline-wichaiwi/344/external-ux-uxui-design-filled-outline-wichaiwi.png" alt="UX" width="50" height="50"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png" width="50" height="50"/> </a> 
+<p align="center">
+  <sub>PRODUCT DESIGN · HUMAN FACTORS · INTERACTIVE PROTOTYPES</sub>
 </p>
-<br>
-<br>
-<br>
-<br>
 
-## 📊 My Github Stats
+<h1 align="center">Sandesh Subedi</h1>
 
 <p align="center">
-    <a href="https://github.com/SandeshKey/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sandesh Subedi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SandeshKey&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <em>Making complex workflows easier to understand, use, and trust.</em>
 </p>
 
-<br/>
 <p align="center">
-    <a href="https://github.com/SandeshKey/github-readme-stats"><img alt="Sandesh Subedi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SandeshKey&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SandeshKey/github-readme-stats"><img alt="Sandesh Subedi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandeshKey&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-</p>
-  <br/>
-
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/SandeshKey/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SandeshKey&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
-## 🔍 Find me on:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/sandesh-key/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/sandesshhh"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/sandesshhh/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC2-nbgRC36Qb9vlgJHKSKlQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+  <a href="https://www.sandesh.design/"><strong>Explore my portfolio ↗</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/sandeshxd/">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:subedi.38@wright.edu">Get in touch</a>
 </p>
 
 <br>
-<br>
+
+## Design grounded in how people think.
+
+I’m a product designer with a background in **Human–Computer Interaction and Human Factors Engineering**. I connect user research, interaction design, and working prototypes to make complicated tasks feel more manageable.
+
+My work spans mobile experiences, business workflows, and reusable design systems. I care about the details that help people move forward: clear navigation, understandable system states, useful feedback, and a way to recover when something goes wrong.
+
+This GitHub is the implementation side of my practice: application code, interface experiments, and academic projects. My portfolio brings together the research, decisions, and design stories behind my current work.
+
 <br>
 
-## 👁 Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SandeshKey">
-</a>
-<a href="https://github.com/SandeshKey?tab=followers"><img src="https://img.shields.io/github/followers/SandeshKey?label=Followers&style=social" alt="GitHub Badge"></a>
+## Selected work
+
+### 01 / Neofortunity
+**Designing connected experiences for volunteers and administrators.**
+
+An iOS product-design project translating stakeholder conversations into information architecture, role-specific workflows, and high-fidelity interfaces.
+
+- **35 screens across eight flows**, including role selection and hours review.
+- A design system with **nine reusable components, 31 primitives, and 22 semantic color tokens**.
+- An interactive case study with role-switching and hours-review demos.
+
+My contribution includes stakeholder conversations, design decisions, Figma execution, and review of AI-assisted prototypes and interface code.
+
+[Read the case study ↗](https://www.sandesh.design/work/neofortunity)
+
+---
+
+### 02 / Route Clarity
+**A dispatch workflow that does not depend on seeing color.**
+
+A human-factors project using controlled usability evidence to redesign a color-dependent dispatch interface around redundant encoding, clearer system states, and error prevention.
+
+The focus: making critical distinctions understandable through more than color alone.
+
+[Explore the design and evidence ↗](https://www.sandesh.design/work/route-clarity)
+
+---
+
+### 03 / Olive Homes
+**Exploring property discovery through a working mobile interface.**
+
+An academic Flutter application with property discovery, filtering, favorites, account screens, and reusable UI elements.
+
+The repository provides a view into the application structure, from interface components to state and service code.
+
+[Explore the repository ↗](https://github.com/SandeshKey/Final-Year-Project)
+
+---
+
+### 04 / Mingo Shoes
+**Connecting storefront design with front-end implementation.**
+
+An academic web project exploring shopping and administration interfaces using HTML, CSS, Bootstrap, and JavaScript/jQuery.
+
+The repository includes interface screenshots and source files for product browsing, cart, checkout, and administration layouts.
+
+[Explore the repository ↗](https://github.com/SandeshKey/Mobile-Web-Multimedia)
 
 <br>
+
+## How I approach the work
+
+**Understand before arranging.**  
+Start with the people, their tasks, and the constraints. Use interviews, workflow analysis, and usability feedback to decide what the interface needs to do.
+
+**Design beyond the ideal path.**  
+Consider permissions, empty states, errors, review steps, and recovery—not just the polished screen.
+
+**Make the system coherent.**  
+Use components, tokens, and documented interaction patterns to connect visual craft with implementation.
+
+**Build something people can respond to.**  
+Move between Figma and code to make ideas tangible, expose assumptions, and improve the next iteration.
+
 <br>
 
-## Thank You! 🙏
+## From design to implementation
+
+| Practice | Methods and tools |
+| :--- | :--- |
+| **Research & interaction** | User interviews, usability testing, research synthesis, information architecture, user flows |
+| **Interface & systems** | Figma, Auto Layout, components, variants, variables, design tokens |
+| **Prototyping & web** | HTML, CSS, JavaScript, interactive prototypes |
+| **AI-assisted building** | Claude Code, Figma Make, Cline |
+
+I use AI to help draft, explore, and build. I remain responsible for the design decisions and for reviewing generated work against the research, requirements, and intended behavior.
+
+<br>
+
+<details>
+<summary><strong>More technical work & academic foundations</strong></summary>
+
+<br>
+
+These repositories document earlier learning and implementation work. Their scope and maturity vary; they complement the current product-design work in my portfolio.
+
+- **[Courier Service System](https://github.com/SandeshKey/Courier-Service-System-in-Java)**  
+  A Java application exploring operational workflows and object-oriented programming.
+
+- **[E-learning Web Application](https://github.com/SandeshKey/E-learning-Web-Application-in-CSharp)**  
+  An academic application built with C# and ASP.NET Web Forms.
+
+- **[Online Lifestyle Shop](https://github.com/SandeshKey/Online-Lifestyle-Shop)**  
+  Shoe-store wireframes alongside an HTML, CSS, and JavaScript implementation.
+
+- **[Hourly Weather Analysis](https://github.com/SandeshKey/Hourly-Weather-Analysis-with-R-Programming)**  
+  Exploratory analysis and data visualization using R.
+
+**Education**
+
+M.S. in Human Factors Engineering  
+Wright State University · Completing Dec 2026
+
+BSc in Information Technology · Human–Computer Interaction concentration  
+Asia Pacific University of Technology and Innovation · Jun 2024
+
+</details>
+
+<br>
+
+---
+
+<p align="center">
+  <strong>Let’s make complex things easier to use.</strong>
+</p>
+
+<p align="center">
+  Open to product design and UX opportunities.
+</p>
+
+<p align="center">
+  <a href="https://www.sandesh.design/">sandesh.design</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:subedi.38@wright.edu">subedi.38@wright.edu</a>
+</p>
